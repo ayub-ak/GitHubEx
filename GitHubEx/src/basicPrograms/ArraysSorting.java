@@ -22,5 +22,7 @@ public class ArraysSorting
 		{
 			System.out.println(s);
 		}
+		System.out.println("GitHub test - code change commit");
 	}
+	
 }
