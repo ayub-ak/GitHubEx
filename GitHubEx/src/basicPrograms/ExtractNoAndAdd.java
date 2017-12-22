@@ -14,6 +14,7 @@ public class ExtractNoAndAdd {
 		}
 		System.out.println("Sum : "+sum);
 		System.out.println("Adding one line code");
+		System.out.println("Adding 2nd line code");
 	}
 
 }
