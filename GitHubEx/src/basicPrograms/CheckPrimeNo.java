@@ -13,6 +13,7 @@ public class CheckPrimeNo {
 			System.out.println("Number : "+input+" is a prime number");
 		else
 			System.out.println("Number : "+input+" is not a prime number");
+		System.out.println("New code change");
 	}
 	
 //Logic is to check if the number(n) is divisible by any one of the numbers (from 2,3,...square root of (n))
