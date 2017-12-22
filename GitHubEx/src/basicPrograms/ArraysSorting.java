@@ -23,6 +23,7 @@ public class ArraysSorting
 			System.out.println(s);
 		}
 		System.out.println("GitHub test - code change commit");
+		System.out.println("Adding one more line code");
 	}
 	
 }
