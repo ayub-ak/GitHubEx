@@ -13,6 +13,7 @@ public class ExtractNoAndAdd {
 				sum=sum+Character.getNumericValue(c);
 		}
 		System.out.println("Sum : "+sum);
+		System.out.println("Adding one line code");
 	}
 
 }
