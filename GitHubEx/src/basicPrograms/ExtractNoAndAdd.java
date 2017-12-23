@@ -18,6 +18,7 @@ public class ExtractNoAndAdd {
 		System.out.println("Adding 3rd line code");
 		System.out.println("Adding 4th line code");
 		System.out.println("Adding 5th Line code");
+		System.out.println("Adding 6th line ");
 	}
 
 }
